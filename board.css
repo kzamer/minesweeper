@@ -1,0 +1,9 @@
+.hasBomb-true {
+  text-decoration: line-through;
+  color: red;
+}
+
+.hasBomb-false {
+  text-decoration: none
+  color: blue;
+}
